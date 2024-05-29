@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rccoder22
-- 👀 I’m interested in becoming either a web or software developer.
-- 🌱 I’m currently learning HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on sharpening my skills on the three programming languages mentioned above.  In addition, I'm looking to get feedback on projects that I work on.
+- 👀 I’m looking to becoming either a web developer.
+- 🌱 I’m currently learning HTML, CSS, Javascript, and React.
+- 💞️ I’m looking to collaborate on sharpening my skills on the four programming languages mentioned above.  In addition, I'm looking to get feedback on projects that I work on.
 - 📫 How to reach me "richardconey46@gmail.com"
 
 <!---
